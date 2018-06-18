@@ -1,0 +1,14 @@
+G:\development\ComputrainerProcessor\ComputrainerProcessor\bin\Release\ComputrainerProcessor.dll
+G:\development\ComputrainerProcessor\ComputrainerProcessor\bin\Release\ComputrainerProcessor.pdb
+G:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Release\ResolveAssemblyReference.cache
+G:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Release\ComputrainerProcessor.Properties.Resources.resources
+G:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Release\ComputrainerProcessor.csproj.GenerateResource.Cache
+G:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Release\ComputrainerProcessor.dll
+G:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Release\ComputrainerProcessor.pdb
+C:\Program Files\Zone Five Software\SportTracks 2.0\Plugins\ComputrainerProcessor.pdb
+C:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Release\ResolveAssemblyReference.cache
+C:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Release\ComputrainerProcessor.Properties.Resources.resources
+C:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Release\ComputrainerProcessor.csproj.GenerateResource.Cache
+C:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Release\ComputrainerProcessor.pdb
+C:\Program Files\Zone Five Software\SportTracks 2.0\Plugins\ComputrainerProcessor.dll
+C:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Release\ComputrainerProcessor.dll

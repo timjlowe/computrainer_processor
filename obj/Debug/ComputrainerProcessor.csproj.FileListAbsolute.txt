@@ -1,0 +1,7 @@
+C:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Debug\ComputrainerProcessor.Properties.Resources.resources
+C:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Debug\ComputrainerProcessor.csproj.GenerateResource.Cache
+C:\development\ComputrainerProcessor\ComputrainerProcessor\bin\Debug\ComputrainerProcessor.pdb
+C:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Debug\ComputrainerProcessor.pdb
+C:\development\ComputrainerProcessor\ComputrainerProcessor\bin\Debug\ComputrainerProcessor.dll
+C:\development\ComputrainerProcessor\ComputrainerProcessor\obj\Debug\ComputrainerProcessor.dll
